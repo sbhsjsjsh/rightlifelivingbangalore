@@ -59,6 +59,9 @@ export const metadata: Metadata = {
     description:
       '100+ acre child-centric integrated township on Varthur-Sarjapur Road, East Bangalore. 3 & 3.5 BHK luxury apartments from ₹1.75 Cr.',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
